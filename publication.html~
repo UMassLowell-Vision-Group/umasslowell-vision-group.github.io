@@ -3,18 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Umass Lowell Vision Group by UMassLowell-Vision-Group</title>
-
+    <title>Computer Vision and Learning Group at UMass Lowell</title>
     <link rel="stylesheet" href="stylesheets/styles.css">
-	<link href="jquery-ui.css" rel="stylesheet">
+    <link href="jquery-ui.css" rel="stylesheet">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
     <script src="javascripts/scale.fix.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-	<style>
-		
-		
-		
+    <style>
 		.PicBorder{
 		width:200px;
 		height:200px;
@@ -31,8 +26,9 @@
 		.code strong a { color : #000; }
 		.external a { margin : 0 10px; }
 		.external a.first { margin : 0 10px 0 0; }
-		.personal{width:100px;height:100px;}
-	</style>
+		.personal {width:100px;height:100px;}
+		.pfloat {float:left;margin: 20px 100px 20px 1px;}
+    </style>
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -41,62 +37,178 @@
   <body>
     <div class="wrapper" >
       <header class="without-description">
-        <h1><a href="index.html">Umass Lowell Vision Group</a></h1>
+	<a href=""><img src="images/logohorz.gif" height="80"/></a>
         <p></p>
-        <p class="view"><a href="https://github.com/UMassLowell-Vision-Group">View the Project on GitHub <small>UMassLowell-Vision-Group</small></a></p>
-        <ul>
-          <li class="single"><a href="https://github.com/UMassLowell-Vision-Group/umasslowell-vision-group.github.io">View On <strong>GitHub</strong></a></li>
-        </ul>
-      </header>
-	  
+      </header>  
 	  
       <section style="height:800px" >
-		
-		<!--Menu Part begin-->
-		
-		
-		<div style="width:10%;float:left;display:inline;" align="left">
-		<ul style="width:100px;" id="menu">
-		<li style="background-color:#50b7c1"><a href="index.html">Home</a></li>	
-		<li style="background-color:#afdfe4"><a href="people.html">People</a>
-			<!--ul>
-				<li style="width:150px;background-color:#afb4db"><a href="ksaenko.html">Kate Saenko</a></li>
-				<li style="width:150px;background-color:#9b95c9"><a href="bsun.html">Baochen Sun</li>
-				<li style="width:150px;background-color:#7bbfea"><a href="huijuan.html">Huijuan Xu</li>
-				<li style="width:150px;background-color:#afdfe4"><a href="xpeng.html">Xingchao Peng</a></li>
-				<!--li style="width:150px;background-color:#afdfe4"><a href="newmembers.html">newmembers</a></li>
-				<li style="width:150px;background-color:#afdfe4"><a href="newmembers.html">newmembers</a></li>
-				<li style="width:150px;background-color:#afdfe4"><a href="newmembers.html">newmembers</a></li>
-			</ul-->
-		</li>
-		<li style="background-color:#50b7c1"><a href="research.html">Research</a></li>	
-		<li style="background-color:#afdfe4"><a href="publication.html">Publication</a></li>	
-		<li  style="background-color:#50b7c1"><a href="teaching.html">Teaching</a></li>
-		</ul>
-		</div>
-		
+	<!--Menu Part begin-->
+	<div style="width:10%;float:left;display:inline;" align="left">
+	<ul style="width:120px;" id="menu">
+	<li style="background-color:#50b7c1"><a href="index.html">Home</a></li>	
+	<li style="background-color:#afdfe4"><a href="people.html">People</a>
+		<!--ul>
+			<li style="width:150px;background-color:#afb4db"><a href="ksaenko.html">Kate Saenko</a></li>
+			<li style="width:150px;background-color:#9b95c9"><a href="bsun.html">Baochen Sun</li>
+			<li style="width:150px;background-color:#7bbfea"><a href="huijuan.html">Huijuan Xu</li>
+			<li style="width:150px;background-color:#afdfe4"><a href="xpeng.html">Xingchao Peng</a></li>
+		</ul-->
+	</li>
+	<li style="background-color:#50b7c1"><a href="research.html">Research</a></li>	
+	<li style="background-color:#afdfe4"><a href="publication.html">Publications</a></li>	
+	<li  style="background-color:#50b7c1"><a href="teaching.html">Teaching</a></li>
+	</ul>
+	</div>		
 	<!--Menu end-->
-		<div style="width:90%;float:left;display:inline;" id="alternative">
-		<!--alternative section begin, edit you own page here-->
+	<div style="width:90%;float:left;display:inline;" id="alternative">
+        <!--******************************************-->
+	<!--begin page content, edit you own page here-->
 
-		<!--end of alternative section-->
-		</div>
-		
-	</section>
+	  <h2>Publications</h2>
+
+<p>	Chakrabarti, Ayan; Xiong, Ying; Sun, Baochen; Darrell, Trevor; Scharstein, Daniel; Zickler, Todd; Saenko, Kate; 	 <a href=> "Modeling Radiometric Uncertainty for Vision with Tone-mapped Color Images", </a>					IEEE, 2014	</p>
+<p>	Goehring, Daniel; Hoffman, Judy; Rodner, Erik; Saenko, Kate; Darrell, Trevor; 	 <a href=> "Interactive adaptation of real-time object detectors", </a>	Robotics and Automation (ICRA), 2014 IEEE International Conference on			1282-1289	IEEE, 2014	</p>
+<p>	Hoffman, Judy; Rodner, Erik; Donahue, Jeff; Kulis, Brian; Saenko, Kate; 	 <a href=> "Asymmetric and Category Invariant Feature Transformations for Domain Adaptation", </a>	International Journal of Computer Vision	109	2-Jan	28-41	Springer US, 2014	</p>
+<p>	Ali, Karim; Saenko, Kate; 	 <a href=> "Confidence-rated multiple instance boosting for object detection", </a>	Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on			2433-2440	IEEE, 2014	</p>
+<p>	Guadarrama, Sergio; Rodner, Erik; Saenko, Kate; Zhang, Ning; Farrell, Ryan; Donahue, Jeff; Darrell, Trevor; 	 <a href=> "Open-vocabulary object retrieval", </a>					RSS, 2014	</p>
+<p>	Thomason, Jesse; Venugopalan, Subhashini; Guadarrama, Sergio; Saenko, Kate; Mooney, Raymond; 	 <a href=> "Integrating language and vision to generate natural language descriptions of videos in the wild", </a>	Proceedings of the 25th International Conference on Computational Linguistics (COLING), August				, 2014	</p>
+<p>	Hoffman, Judy; Darrell, Trevor; Saenko, Kate; 	 <a href=> "Continuous manifold based adaptation for evolving visual domains", </a>	Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on			867-874	IEEE, 2014	</p>
+
+
+<h3>2012</h3>
+
+<p>Y. Xiong, K. Saenko,
+T. Zickler, T. Darrell, "From Pixels to Physics: Probabilistic
+Color De-rendering", in Proc. IEEE Conference on Computer Vision and
+Pattern Recognition (CVPR), 2012.</p>
+
+<h3>2011</h3>
+
+<p>T. Tuytelaars, M. Fritz, K. Saenko,
+T. Darrell, <a href="http://homes.esat.kuleuven.be/%7Etuytelaa/tuytelaars_al-nbnn_kernel-iccv11.pdf">"The
+NBNN kernel"</a>, International Conference on Computer Vision
+(ICCV), 2011. </p>
+
+
+<p>K. Saenko, Y. Jia, M. Fritz, J.
+Long, A. Janoch, A. Shyr, S. Karayev,
+T. Darrell, "Practical 3-D Object Detection Using Category and
+Instance-Level Appearance Models",
+in IEEE/RSJ International Conference on Intelligent Robots and Systems
+(IROS), 2011.
+</p>
+
+<p> B. Kulis, K. Saenko, and T. Darrell,
+<a href="cvpr_adapt.pdf">"What You Saw is Not What You
+Get: Domain Adaptation Using Asymmetric
+Kernel Transforms"</a>
+In Proc. IEEE Conference on Computer Vision and Pattern Recognition
+(CVPR), 2011.
+<span style="color: maroon;">Oral Presentation: 3.5%
+Acceptance Rate.</span></p>
+
+<p>T. Owens, K. Saenko, A. Chakrabarti, Y. Xiong, T. Zickler, and T. Darrell,
+<a href="mvccCVPR2011final.pdf">"Learning Object Color Models from Multi-view Constraints"</a>, In CVPR 2011.
+</p>
+
+<h3>2010</h3>
+
+<p>M. Fritz, K. Saenko, T. Darrell, <a href="./fritz_nips_2010.pdf">
+"Size Matters: Metric Visual Search Constraints from Monocular Metadata"</a>
+In Proc. NIPS, December 2010, Vancouver, Canada.</p>
+
+<p>K. Saenko, B. Kulis, M. Fritz and T. Darrell, <a href="./saenko_eccv_2010.pdf">
+"Adapting Visual Category Models to New Domains"</a> 
+In Proc. ECCV, September 2010, <st1:city w:st="on">Heraklion, Greece. 
+[<a href="projects.html#DA">project page</a>]</p>
+
+<h3>2009</h3>
+
+<p>K. Saenko, "Image Sense Disambiguation: A Multimodal Approach." Doctoral Thesis, 
+Massachusetts Institute of Technology.
+August 2009. [<a href="./saenko_phd_thesis.pdf">pdf</a>]
+[<a href="./saenko_thesis_defense.ppt">slides</a>]</p>
+
+<p>K. Saenko and T. Darrell, <a href="./saenko_nips_2009.pdf">"Filtering
+Abstract Senses From Image Search
+Results" </a>In Proc. NIPS, December 2009,Vancouver,Canada.
+</p>
+
+<p>K. Saenko, K. Livescu, J. Glass, and T. Darrell, <a href="./saenko_livescu_pami_08.pdf">
+"Multistream Articulatory Feature-Based Models for Visual Speech Recognition"</a>. 
+In IEEE Transactions on Pattern Analysis and Machine Intelligence, 2009.</p>
+
+<h3>2008 (and earlier)</h3>
+
+<p>K. Saenko and T. Darrell, <a href="./saenko_nips08.pdf">
+"Unsupervised Learning of Visual Sense Models for Polysemous Words"</a>. 
+Proc. NIPS, December 2008, Vancouver, Canada.
+</p>
+
+<p>M. Hasegawa, K. Livescu, P. Lal, and K.
+Saenko, <a href="http://groups.csail.mit.edu/sls/publications/2007/1719.pdf">"Audiovisual
+Speech Recognition with Articulator Positions as Hidden Variables."</a>
+Proc. International Congress of Phonetic Sciences, August 2007, Saarbruecken,Germany. 
+</p>
+
+<p>K. Saenko and T. Darrell, <a href="./saenko_mlmi_07.pdf">"Object
+Category Recognition Using Probabilistic
+Fusion of Speech and Image Classifiers"</a>. Proc. MLMI, June
+2007, Brno, Czech Republic. 
+</p>
+
+<p>Karen Livescu, Ozgur Cetin, Mark Hasegawa-Johnson, Simon King, Chris Bartels, Nash Borges, Arthur
+Kantor, Partha Lal, Lisa Yung, Ari Bezman, Stephen Dawson-Haggerty, Bronwyn Woods, Joe
+Frankel, Matthew Magimai-Doss, and Kate Saenko, <a href="./livescu07icassp.pdf">"Articulatory
+Feature-Based Methods for Acoustic and Audio-Visual Speech Recognition:
+Summary from the 2006 JHU Summer Workshop"</a>. ICASSP, May 2007. </p>
+
+<p>K. Saenko and K. Livescu, <a href="./saenko_livescu_slt_06.pdf">"An
+Asynchronous DBN for Audio-Visual Speech Recognition"</a>. In Proc. IEEE 2006 Workshop on Spoken Language
+Technology (SLT), December 2006, Palm Beach, Aruba.</p>
+
+<p>C. Christoudias, K. Saenko, L.-P. Morency and T. Darrell, <a href="./christoudias_saenko_icmi_06.pdf">
+"Co-Adaptation of Audio-Visual Speech and Gesture Classifiers"</a>. 
+Proc. ICMI, November 2006,
+Banff, Canada. <span style="color: maroon;">Best Paper Award</span>. </p>
+
+<p>K. Saenko, K. Livescu, M. Siracusa, K. Wilson, J. Glass, and T. Darrell, <a href="./saenko_iccv_05.pdf">
+"Visual Speech Recognition with Loosely Synchronized Feature Streams"</a>. 
+Proc. ICCV, October 2005, Beijing.</p>
+
+<p>K. Saenko, K. Livescu, J. Glass, and
+T. Darrell, <a href="./saenko_livescu_icassp_05.pdf">
+"Production Domain Modeling of Pronunciation for Visual Speech Recognition"</a>. 
+Proc. ICASSP, March 2005, Philadelphia.
+</p>
+
+<p>K. Saenko, T. Darrell, and J. Glass, <a href="./saenko_icmi_04.pdf">"Articulatory
+Features for Robust Visual Speech Recognition"</a>. Proc. ICMI,
+pp.152-158, October 2004, State College, PA.
+</p>
+
+<p>T. Hazen, K, Saenko, C. La, and J. Glass, <a href="./hazen_saenko_icmi_04.pdf">
+"A Segment-based Audio-Visual Speech Recognizer: Data Collection, Development, and Initial Experiments" </a>. 
+Proc. ICMI, pp. 235-242, October 2004, State College, PA.
+</p>
+
+
+
+
+
+        <!--******************************************-->
+	<!--end of page content-->
+	</div>
+      </section>
   
-	<script src="external/jquery/jquery.js"></script>
-	<script src="jquery-ui.js"></script>
-	<script>
+      <script src="external/jquery/jquery.js"></script>
+      <script src="jquery-ui.js"></script>
+      <script>
 	$( "#menu" ).menu();
-
-	</script>
-	
-	
-	
-    <footer>
-      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
-    </footer>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-    
+      </script>		     
+      <footer>
+	<p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+      </footer>
+      <!--[if !IE]><script>fixScale(document);</script><![endif]-->
   </body>
 </html>
