@@ -64,18 +64,25 @@
         <!--******************************************-->
 	<!--begin page content, edit you own page here-->
 
-	  <div class="container">
-	    <h2>Welcome!</h2>
+	
 	    <p>Welcome to the <a href="index.html">Computer Vision and Machine Learning Group</a> 
 	      at the <a href="www.cs.uml.edu">Computer Science Department</a> of 
 	      <a href="www.uml.edu">Umass Lowell</a>. 
 	    </p>				
-	  </div>
+	
 	  
-	  <div class="container">
 	    <h2>News</h2>				
-	    <p>Coming soon...</p>
-	  </div>
+	      <ul>
+		<li><big> <a href="http://lsda.berkeleyvision.org">Large-Scale Detection by Adaptation</a> 7K Category Detection models are now available!
+		</big></li>
+		<li><big> Our paper titled <a href="bmvc14_sun_fromvirtualtoreal.pdf">From Virtual to Reality: Fast Adaptation of Virtual Object Detectors to Real Domains</a> was accepted to BMVC 2014. See also <a href="bmvc14_FromVirtualToReality.pptx">slides</a> from a recent talk.
+		</big></li>
+		<li><big>
+		  <a href="./projects.html#data">DeCAF features</a> that achieve the state of the art on the Office domain adaptation dataset are now available for download.
+		</big></li>
+	      </ul>
+
+
 	  
         <!--******************************************-->
 	<!--end of page content-->

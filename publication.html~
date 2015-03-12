@@ -66,50 +66,94 @@
 
 	  <h2>Publications</h2>
 
-<p>	Chakrabarti, Ayan; Xiong, Ying; Sun, Baochen; Darrell, Trevor; Scharstein, Daniel; Zickler, Todd; Saenko, Kate; 	 <a href=> "Modeling Radiometric Uncertainty for Vision with Tone-mapped Color Images", </a>					IEEE, 2014	</p>
-<p>	Goehring, Daniel; Hoffman, Judy; Rodner, Erik; Saenko, Kate; Darrell, Trevor; 	 <a href=> "Interactive adaptation of real-time object detectors", </a>	Robotics and Automation (ICRA), 2014 IEEE International Conference on			1282-1289	IEEE, 2014	</p>
-<p>	Hoffman, Judy; Rodner, Erik; Donahue, Jeff; Kulis, Brian; Saenko, Kate; 	 <a href=> "Asymmetric and Category Invariant Feature Transformations for Domain Adaptation", </a>	International Journal of Computer Vision	109	2-Jan	28-41	Springer US, 2014	</p>
-<p>	Ali, Karim; Saenko, Kate; 	 <a href=> "Confidence-rated multiple instance boosting for object detection", </a>	Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on			2433-2440	IEEE, 2014	</p>
-<p>	Guadarrama, Sergio; Rodner, Erik; Saenko, Kate; Zhang, Ning; Farrell, Ryan; Donahue, Jeff; Darrell, Trevor; 	 <a href=> "Open-vocabulary object retrieval", </a>					RSS, 2014	</p>
-<p>	Thomason, Jesse; Venugopalan, Subhashini; Guadarrama, Sergio; Saenko, Kate; Mooney, Raymond; 	 <a href=> "Integrating language and vision to generate natural language descriptions of videos in the wild", </a>	Proceedings of the 25th International Conference on Computational Linguistics (COLING), August				, 2014	</p>
-<p>	Hoffman, Judy; Darrell, Trevor; Saenko, Kate; 	 <a href=> "Continuous manifold based adaptation for evolving visual domains", </a>	Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on			867-874	IEEE, 2014	</p>
+<h2>2014</h2>
 
+<p> Donahue, Jeff; Hendricks, Lisa Anne; Guadarrama, Sergio; Rohrbach, Marcus; Venugopalan, Subhashini; Saenko, Kate; Darrell, Trevor; <a href=> Long-term recurrent convolutional networks for visual recognition and description, </a>	arXiv preprint arXiv:1411.4389, 2014	</p>
+
+<p> Hoffman, Judy; Pathak, Deepak; Darrell, Trevor; Saenko, Kate; <a href=> Detector Discovery in the Wild: Joint Multiple Instance and Representation Learning, </a>	arXiv preprint arXiv:1412.1135, 2014	</p>
+
+<p> Tzeng, Eric; Hoffman, Judy; Zhang, Ning; Saenko, Kate; Darrell, Trevor; <a href=> Deep Domain Confusion: Maximizing for Domain Invariance, </a>	arXiv preprint arXiv:1412.3474, 2014	</p>
+
+<p> Venugopalan, Subhashini; Xu, Huijuan; Donahue, Jeff; Rohrbach, Marcus; Mooney, Raymond; Saenko, Kate; <a href=> Translating Videos to Natural Language Using Deep Recurrent Neural Networks, </a>	arXiv preprint arXiv:1412.4729, 2014	</p>
+
+<p> Peng, Xingchao; Sun, Baochen; Ali, Karim; Saenko, Kate; <a href=> Exploring Invariances in Deep Convolutional Neural Networks Using Synthetic Images, </a>	arXiv preprint arXiv:1412.7122, 2014	</p>
+
+<p> Chakrabarti, Ayan; Xiong, Ying; Sun, Baochen; Darrell, Trevor; Scharstein, Daniel; Zickler, Todd; Saenko, Kate; <a href=> Modeling Radiometric Uncertainty for Vision with Tone-mapped Color Images </a>, IEEE, 2014	</p>
+
+<p> Goehring, Daniel; Hoffman, Judy; Rodner, Erik; Saenko, Kate; Darrell, Trevor; <a href=> Interactive adaptation of real-time object detectors </a>, Robotics and Automation (ICRA), 2014 IEEE International Conference on, IEEE, 2014	</p>
+
+<p> Hoffman, Judy; Rodner, Erik; Donahue, Jeff; Kulis, Brian; Saenko, Kate; <a href=> Asymmetric and Category Invariant Feature Transformations for Domain Adaptation, </a>	International Journal of Computer Vision, Springer US, 2014	</p>
+
+<p> Sun, Baochen; Saenko, Kate; <a href=> From virtual to reality: Fast adaptation of virtual object detectors to real domains </a>, BMVC, 2014	</p>
+
+<p> Ali, Karim; Saenko, Kate; <a href=> Confidence-rated multiple instance boosting for object detection </a>, Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on, IEEE, 2014	</p>
+
+<p> Guadarrama, Sergio; Rodner, Erik; Saenko, Kate; Zhang, Ning; Farrell, Ryan; Donahue, Jeff; Darrell, Trevor; <a href=> Open-vocabulary object retrieval </a>,RSS, 2014	</p>
+
+<p> Thomason, Jesse; Venugopalan, Subhashini; Guadarrama, Sergio; Saenko, Kate; Mooney, Raymond; <a href=> Integrating language and vision to generate natural language descriptions of videos in the wild </a>, Proceedings of the 25th International Conference on Computational Linguistics (COLING), August, 	2014	</p>
+
+<p> Hoffman, Judy; Darrell, Trevor; Saenko, Kate; <a href=> Continuous manifold based adaptation for evolving visual domains </a>, Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on, IEEE, 2014	</p>
+
+<p> Hoffman, Judy; Guadarrama, Sergio; Tzeng, Eric S; Hu, Ronghang; Donahue, Jeff; Girshick, Ross; Darrell, Trevor; Saenko, Kate; <a href=> LSDA: Large scale detection through adaptation, </a>	Advances in Neural Information Processing Systems, 2014	</p>
+
+
+<h3>2013</h3>
+
+<p> Hoffman, Judy; Rodner, Erik; Donahue, Jeff; Darrell, Trevor; Saenko, Kate; <a href=> Efficient learning of domain-invariant image representations, </a>	arXiv preprint arXiv:1301.3224, 2013	</p>
+
+<p> Rodner, Erik; Hoffman, Judy; Donahue, Jeff; Darrell, Trevor; Saenko, Kate; <a href=> Towards adapting imagenet to reality: Scalable domain adaptation with implicit low-rank transformations, </a>	arXiv preprint arXiv:1308.4200, 2013	</p>
+
+<p> Hoffman, Judy; Tzeng, Eric; Donahue, Jeff; Jia, Yangqing; Saenko, Kate; Darrell, Trevor; <a href=> One-Shot Adaptation of Supervised Deep Convolutional Models, </a>	arXiv preprint arXiv:1312.6204, 2013	</p>
+
+<p> Janoch, Allison; Karayev, Sergey; Jia, Yangqing; Barron, Jonathan T; Fritz, Mario; Saenko, Kate; Darrell, Trevor; <a href=> A category-level 3d object dataset: Putting the kinect to work, </a>	Consumer Depth Cameras for Computer Vision, Springer London, 2013	</p>
+
+<p> McCann, Eric; Medvedev, Mikhail; Brooks, Daniel J; Saenko, Kate; <a href=> "Off the grid": Self-contained landmarks for improved indoor probabilistic localization </a>, Technologies for Practical Robot Applications (TePRA), 2013 IEEE International Conference on, IEEE, 2013	</p>
+
+<p> Krishnamoorthy, Niveda; Malkarnenkar, Girish; Mooney, Raymond; Saenko, Kate; Guadarrama, Sergio; <a href=> Generating natural-language video descriptions using text-mined knowledge, </a> NAACL HLT, 2013	</p>
+
+<p> Donahue, Jeff; Hoffman, Judy; Rodner, Erik; Saenko, Kate; Darrell, Trevor; <a href=> Semi-supervised domain adaptation with instance constraints </a>, Computer Vision and Pattern Recognition (CVPR), 2013 IEEE Conference on, IEEE, 2013	</p>
+
+<p> Guadarrama, Sergio; Krishnamoorthy, Niveda; Malkarnenkar, Girish; Venugopalan, Subhashini; Mooney, Raymond; Darrell, Trevor; Saenko, Kate; <a href=> Youtube2text: Recognizing and describing arbitrary activities using semantic hierarchies and zero-shot recognition </a>, Computer Vision (ICCV), 2013 IEEE International Conference on, IEEE, 2013	</p>
+
+<p> Huang, Ke; Ding, Xiang; Chen, Guanling; Saenko, Kate; <a href=> Automatic mobile photo tagging using context, </a>	TENCON 2013-2013 IEEE Region 10 Conference (31194), IEEE, 2013	</p>
 
 <h3>2012</h3>
 
-<p>Y. Xiong, K. Saenko,
-T. Zickler, T. Darrell, "From Pixels to Physics: Probabilistic
-Color De-rendering", in Proc. IEEE Conference on Computer Vision and
-Pattern Recognition (CVPR), 2012.</p>
+<p> Xiong, Ying; Saenko, Kate; Darrell, Trevor; Zickler, Todd; <a href=> From pixels to physics: Probabilistic color de-rendering </a>, Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on, IEEE, 2012	</p>
+
+<p> Packer, Benjamin; Saenko, Kate; Koller, Daphne; <a href=> A combined pose, object, and feature model for action understanding </a>, Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on, IEEE, 2012 </p>
+
+<p> Hoffman, Judy; Kulis, Brian; Darrell, Trevor; Saenko, Kate; <a href=> Discovering latent domains for multisource domain adaptation, </a> European Conference on Computer Vision (ECCV), 2012	</p>
+
+<p> Saenko, Kate; Packer, Ben; Chen, C; Bandla, S; Lee, Y; Jia, Yangqing; Niebles, J; Koller, D; Fei-Fei, L; Grauman, K; <a href=> Mid-level features improve recognition of interactive activities </a>, UC Berkeley EECS Technical Report, 2012	</p>
+
 
 <h3>2011</h3>
+
+
+<p> Saenko, Kate; Karayev, Sergey; Jia, Yangqing; Shyr, Alex; Janoch, Allison; Long, Jonathan; Fritz, Mario; Darrell, Trevor; <a href=> Practical 3-D object detection using category and instance-level appearance models </a>, Intelligent Robots and Systems (IROS), 2011 IEEE/RSJ International Conference on, IEEE, 2011	</p>
+
+<p> Hoffman, Judy; Saenko, Kate; Kulis, Brian; Darrell, Trevor; <a href=> Domain adaptation with multiple latent domains, </a>	NIPS Domain Adaptation Workshop, 2011 </p>
 
 <p>T. Tuytelaars, M. Fritz, K. Saenko,
 T. Darrell, <a href="http://homes.esat.kuleuven.be/%7Etuytelaa/tuytelaars_al-nbnn_kernel-iccv11.pdf">"The
 NBNN kernel"</a>, International Conference on Computer Vision
 (ICCV), 2011. </p>
 
-
-<p>K. Saenko, Y. Jia, M. Fritz, J.
-Long, A. Janoch, A. Shyr, S. Karayev,
-T. Darrell, "Practical 3-D Object Detection Using Category and
-Instance-Level Appearance Models",
-in IEEE/RSJ International Conference on Intelligent Robots and Systems
-(IROS), 2011.
-</p>
-
 <p> B. Kulis, K. Saenko, and T. Darrell,
-<a href="cvpr_adapt.pdf">"What You Saw is Not What You
-Get: Domain Adaptation Using Asymmetric
-Kernel Transforms"</a>
+<a href="cvpr_adapt.pdf">What You Saw is Not What You Get: Domain Adaptation Using Asymmetric Kernel Transforms</a>
 In Proc. IEEE Conference on Computer Vision and Pattern Recognition
 (CVPR), 2011.
-<span style="color: maroon;">Oral Presentation: 3.5%
-Acceptance Rate.</span></p>
+<span style="color: maroon;">Oral Presentation: 3.5% Acceptance Rate.</span></p>
 
 <p>T. Owens, K. Saenko, A. Chakrabarti, Y. Xiong, T. Zickler, and T. Darrell,
 <a href="mvccCVPR2011final.pdf">"Learning Object Color Models from Multi-view Constraints"</a>, In CVPR 2011.
 </p>
+
+<p> Owens, Trevor; Saenko, Kate; Chakrabarti, Ayan; Xiong, Ying; Zickler, Todd; Darrell, Trevor; <a href=> The ratio method for multi-view color constancy </a>,UC Berkeley Tech. Report, 2011	</p>
+
+<p> Xiong, Ying; Saenko, Kate; Zickler, Todd; Darrell, Trevor; <a href=> Modeling the Uncertainty in Inverse Radiometric Calibration </a>, 2011 </p>
+
 
 <h3>2010</h3>
 
@@ -122,6 +166,11 @@ In Proc. NIPS, December 2010, Vancouver, Canada.</p>
 In Proc. ECCV, September 2010, <st1:city w:st="on">Heraklion, Greece. 
 [<a href="projects.html#DA">project page</a>]</p>
 
+<p> Saenko, Kate; Kulis, Brian; Fritz, Mario; Darrell, Trevor; <a href=> Visual domain adaptation using regularized cross-domain transforms </a>,Technical Report UCB/EECS-2010-106, EECS Department, University of California, Berkeley, 2010	</p>
+
+<p> Saenko, Kate; Kulis, Brian; Fritz, Mario; Darrell, Trevor; <a href=> Transferring visual category models to new domains </a>,Technical Report UCB/EECS-2010-54, EECS Department, University of California, Berkeley, 2010	</p>
+
+
 <h3>2009</h3>
 
 <p>K. Saenko, "Image Sense Disambiguation: A Multimodal Approach." Doctoral Thesis, 
@@ -129,14 +178,14 @@ Massachusetts Institute of Technology.
 August 2009. [<a href="./saenko_phd_thesis.pdf">pdf</a>]
 [<a href="./saenko_thesis_defense.ppt">slides</a>]</p>
 
-<p>K. Saenko and T. Darrell, <a href="./saenko_nips_2009.pdf">"Filtering
-Abstract Senses From Image Search
-Results" </a>In Proc. NIPS, December 2009,Vancouver,Canada.
+<p>K. Saenko and T. Darrell, <a href="./saenko_nips_2009.pdf">
+"Filtering Abstract Senses From Image Search Results" </a>In Proc. NIPS, December 2009,Vancouver,Canada.
 </p>
 
 <p>K. Saenko, K. Livescu, J. Glass, and T. Darrell, <a href="./saenko_livescu_pami_08.pdf">
 "Multistream Articulatory Feature-Based Models for Visual Speech Recognition"</a>. 
 In IEEE Transactions on Pattern Analysis and Machine Intelligence, 2009.</p>
+
 
 <h3>2008 (and earlier)</h3>
 
@@ -146,16 +195,15 @@ Proc. NIPS, December 2008, Vancouver, Canada.
 </p>
 
 <p>M. Hasegawa, K. Livescu, P. Lal, and K.
-Saenko, <a href="http://groups.csail.mit.edu/sls/publications/2007/1719.pdf">"Audiovisual
-Speech Recognition with Articulator Positions as Hidden Variables."</a>
+Saenko, <a href="http://groups.csail.mit.edu/sls/publications/2007/1719.pdf">"Audiovisual Speech Recognition with Articulator Positions as Hidden Variables."</a>
 Proc. International Congress of Phonetic Sciences, August 2007, Saarbruecken,Germany. 
 </p>
 
-<p>K. Saenko and T. Darrell, <a href="./saenko_mlmi_07.pdf">"Object
-Category Recognition Using Probabilistic
-Fusion of Speech and Image Classifiers"</a>. Proc. MLMI, June
+<p>K. Saenko and T. Darrell, <a href="./saenko_mlmi_07.pdf">"Object Category Recognition Using Probabilistic Fusion of Speech and Image Classifiers"</a>. Proc. Machine Learning for Multimodal Interaction (MLMI), June
 2007, Brno, Czech Republic. 
 </p>
+
+<p> Saenko, Kate; Darrell, Trevor; <a href=> Towards adaptive object recognition for situated human-computer interaction, </a>	Proceedings of the 2007 workshop on Multimodal interfaces in semantic interaction, ACM, 2007	</p>
 
 <p>Karen Livescu, Ozgur Cetin, Mark Hasegawa-Johnson, Simon King, Chris Bartels, Nash Borges, Arthur
 Kantor, Partha Lal, Lisa Yung, Ari Bezman, Stephen Dawson-Haggerty, Bronwyn Woods, Joe
@@ -172,6 +220,8 @@ Technology (SLT), December 2006, Palm Beach, Aruba.</p>
 Proc. ICMI, November 2006,
 Banff, Canada. <span style="color: maroon;">Best Paper Award</span>. </p>
 
+<p> Saenko, Kate; Livescu, Karen; <a href=> An asynchronous DBN for audio-visual speech recognition </a>, Spoken Language Technology Workshop, 2006. IEEE, IEEE, 2006	</p>
+
 <p>K. Saenko, K. Livescu, M. Siracusa, K. Wilson, J. Glass, and T. Darrell, <a href="./saenko_iccv_05.pdf">
 "Visual Speech Recognition with Loosely Synchronized Feature Streams"</a>. 
 Proc. ICCV, October 2005, Beijing.</p>
@@ -182,8 +232,7 @@ T. Darrell, <a href="./saenko_livescu_icassp_05.pdf">
 Proc. ICASSP, March 2005, Philadelphia.
 </p>
 
-<p>K. Saenko, T. Darrell, and J. Glass, <a href="./saenko_icmi_04.pdf">"Articulatory
-Features for Robust Visual Speech Recognition"</a>. Proc. ICMI,
+<p>K. Saenko, T. Darrell, and J. Glass, <a href="./saenko_icmi_04.pdf">"Articulatory Features for Robust Visual Speech Recognition"</a>. Proc. ICMI,
 pp.152-158, October 2004, State College, PA.
 </p>
 
@@ -191,9 +240,6 @@ pp.152-158, October 2004, State College, PA.
 "A Segment-based Audio-Visual Speech Recognizer: Data Collection, Development, and Initial Experiments" </a>. 
 Proc. ICMI, pp. 235-242, October 2004, State College, PA.
 </p>
-
-
-
 
 
         <!--******************************************-->
