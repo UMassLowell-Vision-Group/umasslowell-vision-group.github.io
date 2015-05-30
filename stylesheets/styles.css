@@ -99,6 +99,9 @@ header p.view a {
 header p.view small {
   font-weight: 400;
 }
+ul li {
+    padding: 5px 0px;
+}
 header ul {
   margin: 0;
   padding: 0;
