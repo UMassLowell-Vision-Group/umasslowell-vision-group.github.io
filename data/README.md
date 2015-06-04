@@ -26,7 +26,7 @@ Dataset Two
 ========
 Dataset URL: http://www.cs.uml.edu/~xpeng/ICLR2015.zip
 
-Dataset for "What Do Deep CNNs Learn About Object?" published in ICLR'15 workshop.
+Dataset for "What Do Deep CNNs Learn About Objects?" published in ICLR'15 workshop.
 
 ICLR'15 Workshop Paper: http://arxiv.org/abs/1504.02485
 
